@@ -120,7 +120,7 @@ them.
 Things like the app store are a huge step in the right direction, because it 
 dramatically reduces the barriers to distributing software. _but not by enough._
 
-What we need, is a online marketplace for _software features_. Not just whole 
+What we need, is a on-line marketplace for _software features_. not just whole 
 applications, but small changes to existing applications.
 
 You need a button which says "I'm confused" and when you click on it the 
@@ -144,10 +144,10 @@ with your designs. If "improvements" break things, then it will waste more time
 than it could have saved, and it will be better to just pick 
 the devil they know, rather than a possible lesser of two evils.
 
-Candidate improvements need to be _automatically tested_, so you know that the 
+Candidate improvements need to be _automaticially tested_, so you know that the 
 original application still works. then they need to be distributed seamlessly,
-and when something does break, that needs to be redacted just as seamlessly.
+and when something does break, that needs to be redacted just as seemlessly.
 
 This is a hard problem, and as far as I know, has not yet been attempted.
 
-But I believe it is possible. In fact, I'm working on it...
+But I belive it is possible. In fact, I'm working on it.
